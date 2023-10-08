@@ -52,3 +52,17 @@
     }
   }
 }
+
+.attribution {
+  padding: 2.5rem;
+  background-color: v.$dark-blue;
+  &__text {
+    text-align: center;
+    color: v.$light-cyan;
+  }
+
+  a {
+    color: v.$neo-green;
+    text-decoration: none;
+  }
+}
