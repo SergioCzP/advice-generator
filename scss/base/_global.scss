@@ -22,3 +22,18 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.bg-dark-blue {
+  background-color: v.$dark-blue;
+}
+
+.vh-100 {
+  min-height: 100vh;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
